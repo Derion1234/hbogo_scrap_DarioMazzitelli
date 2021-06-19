@@ -1,5 +1,4 @@
 # HBOGO_scrapper-Darío Mazzitelli
 
-#### Solución a la prueba técnica para Web Scrapper Jr.
+#### Solución a la prueba técnica para Web Scrapper
 
-#### Gmail: de.mazzitelli@gmail.com
