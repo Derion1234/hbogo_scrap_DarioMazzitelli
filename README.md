@@ -1,4 +1,4 @@
-# HBOGO_scrapper-Darío Mazzitelli
+# HBOGO_scrapper
 
 #### HBOGO  selenium wire scrapping
 
